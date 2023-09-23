@@ -16,6 +16,7 @@ This project aims to train and evaluate a model based on loan risk. I used a  da
 ## Results
 
 The classification report for the first model:
+
 <img width="316" alt="image" src="https://github.com/bhartikaushal/credit-risk-classification/assets/124011061/1bfe5f4c-71c8-47a3-a056-bd4391cb52ac">
 
 
